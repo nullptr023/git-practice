@@ -1,3 +1,5 @@
+console.log('load index.js');
+
 function showAuthForm() {
 	console.log('showAuthForm');
 	document.getElementById('login-form').style.display = 'none';
