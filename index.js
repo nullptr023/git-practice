@@ -15,3 +15,5 @@ function showLoginForm () {
 function newFunction () {
 	console.log('this is a new function');
 }
+
+function funct() {}
