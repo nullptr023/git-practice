@@ -1,4 +1,4 @@
-console.log('load index.js');
+console.log('load dev-index.js');
 
 function showAuthForm() {
 	console.log('showAuthForm');
