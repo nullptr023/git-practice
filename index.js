@@ -11,3 +11,7 @@ function showLoginForm () {
 	document.getElementById('login-form').style.display = 'block';
 	document.getElementById('two-auth-form').style.display = 'none';
 }
+
+function newFunction () {
+	console.log('this is a new function');
+}
